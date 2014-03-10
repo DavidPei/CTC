@@ -1,0 +1,43 @@
+body {
+	font-family: arial;
+	font-size: 20pt;
+	color: black;
+	background-color: #ffc;
+	margin: 20px;
+}
+
+h1 {
+	color: yellow;
+	background-color: blue;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p {
+	color: orange;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	color: green;
+	background-color: blue;
+	margin: 20px;
+	padding: 20px;
+	border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
+img {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #ccc;
+}
+
+li {
+    color: #900;
+    font-style: italic;
+}

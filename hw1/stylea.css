@@ -1,0 +1,40 @@
+table {
+	font-size: 13pt;
+	font-family: Tahoma;
+}
+
+th {
+	background-color: #687291;
+	text-align: left;
+	color: white;
+	padding-right: 1em;
+	padding-left: 1em;
+	white-space: nowrap;
+}
+td {
+	padding-right: 1em;
+	padding-left: 1em;
+	white-space: nowrap;
+
+	/*getting the 1px whitespace between each row*/
+	border-style: solid;
+	border-width: 0px;
+	border-bottom-width: 1px;
+	border-color: white;
+}
+
+tr {
+	background-color: #eeeff2;
+}
+.coloralt {
+	background-color: #dfe1e7;
+}
+
+.center {
+	text-align: center;
+	color: red;
+}
+
+.display {
+	display: none;
+}
